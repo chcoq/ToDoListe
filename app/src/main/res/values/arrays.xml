@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <String-array name="tack_status">
+        <item>Toutes</item>
+        <item>En cours</item>
+        <item>Effectuées</item>
+        -
+        <item>Toutes</item>
+
+    </String-array>
+
+</reources>
